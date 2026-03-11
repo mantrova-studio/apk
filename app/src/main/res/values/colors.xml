@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="screenBackground">#FFF5F5F7</color>
+    <color name="cardBackground">#FFFFFFFF</color>
+    <color name="cardStroke">#14000000</color>
+    <color name="textPrimary">#FF121212</color>
+    <color name="textSecondary">#FF6C7278</color>
+    <color name="brandPrimary">#FF111111</color>
+    <color name="brandOnPrimary">#FFFFFFFF</color>
+    <color name="brandSecondary">#FFEAEAEA</color>
+    <color name="brandOnSecondary">#FF111111</color>
+    <color name="icon_background">#121212</color>
+</resources>
